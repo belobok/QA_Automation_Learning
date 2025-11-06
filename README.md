@@ -23,9 +23,10 @@ pytest -q
 ```
 
 ## Next steps
-- Add negative login test
-- Parametrize valid/invalid
-- (Optional) Chrome via Selenium Manager
+- ✅ Negative login test included: `tests/test_login_negative.py`
+- Parametrize valid/invalid credentials
+- (Optional) Add Chrome via Selenium Manager
+
 
 ## License
 MIT — educational/demo use
